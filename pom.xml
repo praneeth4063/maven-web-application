@@ -94,21 +94,21 @@
 		
 	</dependencies>
 	
-	<!--<distributionManagement>
+	<distributionManagement>
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://35.154.84.248:9980/mithuntechnologies/repository/facebook-release/</url>
+	      <name>Praneeth Technologies Releases Nexus Repository</name>
+	      <url>http://18.206.135.156:8081/repository/CloudProject-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://35.154.84.248:9980/mithuntechnologies/repository/facebook-snapshot/</url>
+	      <name>Praneeth Technologies Snapshot Nexus Repository </name>
+	      <url>http://18.206.135.156:8081/repository/CloudProject-snapshot/</url>
 	    </snapshotRepository>
 	    
-	</distributionManagement>-->
+	</distributionManagement>
 	
 	<build>
 		<finalName>maven-web-application</finalName>
